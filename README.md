@@ -1,5 +1,5 @@
 # SEIS635_Project_One
-#FlashBack
+# FlashBack
 
 ## Vision Statement
 FlashBack is for any individual or group who wants a simple memory game that can provoke competition via either friends or a personal best. FlashBack provides a progressive challenge by having each round build upon the other, and unlike other memory games that can be over-engineered and more confusing to understand the rule than to actual play, FlashBack provides the basic purpose of a memory challenge without any confusion.
@@ -18,11 +18,11 @@ For Example: Round #1 shows a 5 of spades. Each user would enter the correspondi
 5. This pattern repeats until there is only one player remaining.
 
 ## Features
-A nearly infinitely scalable number of users each game
-Simple and easy to understand rules
-East tracking and monitoring of high scores 
-The ability to search other users profiles
-Customizable rulesets that can either increase or decrease game difficulty
+- A nearly infinitely scalable number of users each game
+- Simple and easy to understand rules
+- Easy tracking and monitoring of high scores 
+- The ability to search other users profiles
+- Customizable rulesets that can either increase or decrease game difficulty
 
 
 
