@@ -1,0 +1,10 @@
+1) As a single-player, I want to be able to restart the game at any time
+2) As a user, I want to be able to set a game up to include at least 10 players
+3) As a user, I want to be able to limit the sample size of the cards I will be quizzed on
+4) As the main user, I want to be able to create a custom name if I am not logged in
+5) As a user, I want to be able to create a profile
+6) As a user with a profile, I want to be able to see past high scores.
+7) As a player, I want to be able to look at total high scores
+8) As a user with a profile, I want to be able to change my password
+9) As a user, I want to be able to close the application at any time
+10) As a player, I want to be able to see my score as the game progresses
